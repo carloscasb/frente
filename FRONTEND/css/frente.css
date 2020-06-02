@@ -81,7 +81,7 @@
   parte esquerda da página */
   float:left;
   /* Cor de fundo da div */
-  background-color:#FF0;
+  background-color:#ffffff;
  padding-left: 20px;
   }
 #conteudo-right{
@@ -99,5 +99,12 @@
   pois o máximo que a div filha poderá ter é 1000px, sendo 500+500=1000px */
   float:left;
   /* Cor de fundo da div */
-  background-color:#F00;
+  background-color:#ffffff;
+  }
+
+  #espaco {
+padding-left: 20px;
+margin-left: 30px;
+list-style-position: all;
+
   }
